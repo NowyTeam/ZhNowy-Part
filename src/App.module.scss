@@ -1,0 +1,15 @@
+.Title_Wrapper {
+  width: 100%;
+  padding: 45vh 0 ;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 44px;
+  }
+}

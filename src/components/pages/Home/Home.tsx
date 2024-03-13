@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <>
       <div className={Style.wrapper}>
-        <h1>Home</h1>
+        <div className={Style.main_title}>Hello World</div>
       </div>
     </>
   );

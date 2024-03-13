@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <>
       <div className={Style.Projects}>
-        <h1>Projects</h1>
+        <div>Projects</div>
       </div>
     </>
   );

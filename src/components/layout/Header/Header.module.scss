@@ -1,7 +1,6 @@
 .Header {
   width: 100%;
-  background-color: #fff;
-
+  background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,11 +19,12 @@
         width: 3rem;
       }
       h1 {
-        background: -webkit-linear-gradient(-70deg, #10bacd 0%, #ea00ff 100%);
-        background-clip: border-box;
-        -webkit-background-clip: text;
-        background-clip: text;
-        -webkit-text-fill-color: rgba(0, 0, 0, 0);
+        // background: -webkit-linear-gradient(-70deg, #10bacd 0%, #ea00ff 100%);
+        // background-clip: border-box;
+        // -webkit-background-clip: text;
+        // background-clip: text;
+        // -webkit-text-fill-color: rgba(0, 0, 0, 0);
+        color: rgb(255, 255, 255);
         font-size: 30px;
       }
     }
@@ -43,7 +43,7 @@
         height: 3rem;
         text-decoration: none;
         font-size: 20px;
-        color: black;
+        color: rgb(255, 255, 255);
         border-radius: 4px;
 
         &:hover {

@@ -7,8 +7,8 @@ const Header = () => {
       <div className={Style.Header}>
         <div className={Style.Header_Wrapper}>
           <div className={Style.Logo}>
-            <img src="../../../../Logo&Bigest.png" alt="" />
-            <h1>Zhuke</h1>
+            <img src="../../../../pngwing.com (9).png" alt="" />
+            <h1>Nowy</h1>
           </div>
           <div className={Style.Links}>
             <NavLink to="/" className={Style.Link}>

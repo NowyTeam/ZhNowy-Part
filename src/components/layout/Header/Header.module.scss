@@ -16,15 +16,15 @@
       align-items: center;
       img {
         margin-right: 10px;
-        width: 3rem;
+        width: 2.3rem;
       }
       h1 {
-        // background: -webkit-linear-gradient(-70deg, #10bacd 0%, #ea00ff 100%);
-        // background-clip: border-box;
-        // -webkit-background-clip: text;
-        // background-clip: text;
-        // -webkit-text-fill-color: rgba(0, 0, 0, 0);
-        color: rgb(255, 255, 255);
+        background: -webkit-linear-gradient(-70deg, #ffffff 0%, #a7a7a7 100%);
+        background-clip: border-box;
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: rgba(0, 0, 0, 0);
+
         font-size: 30px;
       }
     }

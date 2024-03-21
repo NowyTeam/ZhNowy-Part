@@ -1,6 +1,7 @@
 .Header {
   width: 100%;
-  background-color: black;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0);
   display: flex;
   justify-content: center;
   align-items: center;

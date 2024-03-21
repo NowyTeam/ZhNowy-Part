@@ -4,7 +4,13 @@ const Home = () => {
   return (
     <>
       <div className={Style.wrapper}>
-        <div className={Style.main_title}>Hello World</div>
+        <div className={Style.Main_box}>
+          <div className={Style.box}>
+            <div className={Style.logo}>
+              <h1>Logo</h1>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );

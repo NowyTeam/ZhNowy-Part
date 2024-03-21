@@ -3,8 +3,13 @@
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 84.6vh;
+  height: 190.2vh;
   background-color: black;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.755), rgba(0, 0, 0, 0.775)),
+    url(../../../../bgc.png);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: repeat;
 
   .main_title {
     color: whitesmoke;

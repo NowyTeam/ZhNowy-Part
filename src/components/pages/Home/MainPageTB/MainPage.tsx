@@ -1,11 +1,15 @@
-import Style from "./MainPageTB.module.scss";
+import Style from "./MainPage.module.scss";
 
-const MainPageTB = () => {
+const MainPage = () => {
   return (
     <>
-      <div className={Style.Wrapper}>Hello World</div>
+      <div className={Style.Wrapper}>
+        <div className={Style.MainTitle}>
+          <h1>Что мешает стать лучшим ?</h1>
+        </div>
+      </div>
     </>
   );
 };
 
-export default MainPageTB;
+export default MainPage;

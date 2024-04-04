@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Font_TSX";
+  src: url("../../../../../font/Font_TSX.otf") format("opentype");
+}
+
+.Wrapper {
+  .MainTitle {
+    h1 {
+      font-family: Font_TSX;
+      font-weight: 100;
+      font-size: 18px;
+      
+      color: white;
+      text-transform: uppercase;
+    }
+  }
+}

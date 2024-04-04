@@ -7,7 +7,7 @@ const Home = () => {
         <div className={Style.Main_box}>
           <div className={Style.box}>
             <div className={Style.logo}>
-              <h1>Logo</h1>
+
             </div>
           </div>
         </div>

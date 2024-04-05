@@ -5,13 +5,7 @@ const Home = () => {
   return (
     <>
       <div className={Style.wrapper}>
-        <div className={Style.Main_box}>
-          <div className={Style.box}>
-            <div className={Style.logo}>
-              <MainPage />
-            </div>
-          </div>
-        </div>
+        <MainPage />
       </div>
     </>
   );
